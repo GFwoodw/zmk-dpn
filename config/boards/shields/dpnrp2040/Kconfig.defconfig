@@ -1,0 +1,6 @@
+if SHIELD_DPNRP2040
+
+config ZMK_KEYBOARD_NAME
+    default "dpnrp2040"
+
+endif
